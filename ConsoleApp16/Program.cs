@@ -23,7 +23,7 @@ namespace ConsoleApp15
         }
 
         public override string Name { get => _name; set => _name = value; }
-        public override string Surname { get => _name; set => _name = value; }
+        public override string Surname { get => _surname; set => _surname = value; }
 
         public override bool PassExam()
         {
@@ -49,7 +49,7 @@ namespace ConsoleApp15
         }
 
         public override string Name { get => _name; set => _name = value; }
-        public override string Surname { get => _name; set => _name = value; }
+        public override string Surname { get => _surname; set => _surname = value; }
 
         public override bool PassExam()
         {
@@ -75,7 +75,7 @@ namespace ConsoleApp15
         }
 
         public override string Name { get => _name; set => _name = value; }
-        public override string Surname { get => _name; set => _name = value; }
+        public override string Surname { get => _surname; set => _surname = value; }
 
         public override bool PassExam()
         {
